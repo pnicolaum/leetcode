@@ -1,0 +1,21 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar archivos generados por TypeScript
+dist/
+*.js
+*.js.map
+
+# Ignorar logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar sistemas de IDE/Editor
+.idea/
+.vscode/
+*.swp
+
+# Ignorar archivos de configuración de sistemas operativos
+.DS_Store
+Thumbs.db
